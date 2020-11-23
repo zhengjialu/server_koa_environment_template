@@ -1,0 +1,22 @@
+{
+  "name": "server_koa_environment_template",
+  "version": "1.0.0",
+  "description": "服务端脚手架（Koa 版）",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhengjialu/server_koa_environment_template.git"
+  },
+  "author": "jialu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhengjialu/server_koa_environment_template/issues"
+  },
+  "homepage": "https://github.com/zhengjialu/server_koa_environment_template#readme",
+  "dependencies": {
+    "koa": "^2.13.0"
+  }
+}
